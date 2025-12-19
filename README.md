@@ -159,3 +159,5 @@ Baseline Models
 
 This project successfully reproduces and extends an existing loan approval prediction methodology.
 By introducing cross-dataset validation, hyperparameter tuning, and Random Forest models, the work highlights the importance of robustness and generalization in real-world machine learning applications.
+
+# Presentation link : https://www.canva.com/design/DAG4s6AaYZs/pcmlWUCdmwAF72XkfBcHZQ/edit?utm_content=DAG4s6AaYZs&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
