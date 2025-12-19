@@ -44,6 +44,45 @@ Data Preprocessing
 - Encoding categorical variables
 - Feature scaling where required
 
+# How to Run the Project
+
+Follow the steps below to run the project correctly.
+
+# 1. Requirements
+Make sure you have Python 3.x installed.
+
+Install the required libraries:
+pip install numpy pandas scikit-learn matplotlib
+
+# 2. Open the Project
+Download or clone the repository and open it in Jupyter Notebook or Jupyter Lab.
+
+# 3. Run the Notebooks (In Order)
+
+Run each notebook from top to bottom in the following order:
+
+- Midterm_LoanApproval.ipynb
+Trains baseline models using the original dataset
+Evaluates accuracy, precision, and ROC-AUC
+
+- Methodology_on_German_Credit_Data.ipynb
+Applies the same methodology to the German Credit dataset
+Tests model generalization
+
+- LoanApproval_Tuned_Models.ipynb
+Performs hyperparameter tuning using GridSearchCV
+Compares tuned model performance
+
+- LoanApproval_plus_RF.ipynb
+Adds and evaluates a Random Forest classifier
+
+# 4. Expected Output
+
+When running the notebooks, the following outputs are generated:
+- Model performance metrics (Accuracy, Precision, ROC-AUC)
+- Comparison tables and result visualizations
+No additional configuration is required.
+
 # Modeling Approach
 
 The following models were evaluated:
