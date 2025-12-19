@@ -61,20 +61,20 @@ Download or clone the repository and open it in Jupyter Notebook or Jupyter Lab.
 
 Run each notebook from top to bottom in the following order:
 
-- Midterm_LoanApproval.ipynb
-Trains baseline models using the original dataset
-Evaluates accuracy, precision, and ROC-AUC
+1.- Midterm_LoanApproval.ipynb
+- Trains baseline models using the original dataset
+- Evaluates accuracy, precision, and ROC-AUC
 
-- Methodology_on_German_Credit_Data.ipynb
-Applies the same methodology to the German Credit dataset
-Tests model generalization
+2.- Methodology_on_German_Credit_Data.ipynb
+- Applies the same methodology to the German Credit dataset
+- Tests model generalization
 
-- LoanApproval_Tuned_Models.ipynb
-Performs hyperparameter tuning using GridSearchCV
-Compares tuned model performance
+3.- LoanApproval_Tuned_Models.ipynb
+- Performs hyperparameter tuning using GridSearchCV
+- Compares tuned model performance
 
-- LoanApproval_plus_RF.ipynb
-Adds and evaluates a Random Forest classifier
+4.- LoanApproval_plus_RF.ipynb
+- Adds and evaluates a Random Forest classifier
 
 # 4. Expected Output
 
